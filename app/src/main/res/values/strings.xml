@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ATF1GRUPO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">JUEGO DE DADOS</string>
+    <string name="nav_header_subtitle">Avance de Trabajo Final 1</string>
+    <string name="nav_header_logo">logo utp</string>
+    <string name="nav_header_dado">Simple Dice</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="TiposDado">Tipos de Dados</string>
+    <string name="HistorialTiros">Historial</string>
+    <string name="AcercaDeNosotros">Nosotros</string>
+
+    <string name="buttonTirar">Lanzar dados</string>
+    <string name="buttonHistorial">Ver Historial</string>
+</resources>
